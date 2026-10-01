@@ -75,6 +75,5 @@ jupyter notebook retail_customer_logistics_analysis.ipynb
 
 The notebook reads from `./data/` relative to its own folder. Open `retail_customer_logistics_dashboard.pbix` in Power BI Desktop to explore the dashboard (it reads `retail_customer_summary.xlsx`, which the notebook creates in Step 11).
 
-## Author
 
-Joanne Goh — finance professional (AP/AR/GL, reconciliation, intercompany) transitioning into data analytics. [LinkedIn](https://www.linkedin.com/in/joannegohkp)
+Joanne Goh — finance (AP/AR/GL, reconciliation, intercompany) transitioning into data analytics. [LinkedIn](https://www.linkedin.com/in/joannegohkp)
